@@ -1,4 +1,4 @@
-## Angular mc loss for deep metric learning
+## Angular loss for deep metric learning
 
 Tensorflow Implemenation of Deep Metric Learning with Angular Loss.
 https://arxiv.org/abs/1708.01682
