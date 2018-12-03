@@ -9,7 +9,7 @@ https://arxiv.org/abs/1708.01682
 ## NOTE:
 + All classes in an input batch should be different.
 + All embeddings should not be l2 normalized.
-+ When you guys use this angular loss with N-pair loss, let ```with_l2_reg``` be ```False```. If not, let it be ```True```.
++ When you guys use this angular loss with [N-pair loss](https://www.tensorflow.org/api_docs/python/tf/contrib/losses/metric_learning/npairs_loss), let ```with_l2_reg``` be ```False```. If not, let it be ```True```.
 + I implemented only an angular mc loss. triplet version will be updated.
 
 ## Reference
